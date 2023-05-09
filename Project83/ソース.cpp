@@ -4,7 +4,7 @@ int main(int argc, char* argv[])
 {
 	int a, b;
 
-	printf("“ñ‚Â‚Ì®”‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢F@\n");
+	printf("äºŒã¤ã®æ•´æ•°ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ï¼šã€€\n");
 	scanf_s("%d", &a);
 	scanf_s("%d", &b);
 
@@ -21,7 +21,7 @@ int main(int argc, char* argv[])
 		}
 	}
 
-	printf("Å‘åŒö–ñ” = %d\n", a);
+	printf("æœ€å¤§å…¬ç´„æ•°ã¯%d\n", a);
 
 	return 0;
 }
